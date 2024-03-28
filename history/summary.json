@@ -4,17 +4,19 @@
     "url": "https://api.voicebraindump.com/hello",
     "icon": "https://icons.duckduckgo.com/ip3/api.voicebraindump.com.ico",
     "slug": "brain-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 209,
-    "timeWeek": 143,
-    "timeMonth": 151,
-    "timeYear": 148,
-    "dailyMinutesDown": {}
+    "time": 147,
+    "timeDay": 141,
+    "timeWeek": 134,
+    "timeMonth": 148,
+    "timeYear": 147,
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   }
 ]
