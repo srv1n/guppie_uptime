@@ -4,7 +4,7 @@
     "url": "https://api.voicebraindump.com/hello",
     "icon": "https://icons.duckduckgo.com/ip3/api.voicebraindump.com.ico",
     "slug": "brain-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "90.46%",
     "uptimeWeek": "98.64%",
