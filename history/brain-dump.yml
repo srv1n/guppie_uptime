@@ -1,7 +1,7 @@
 url: https://api.voicebraindump.com/hello
-status: down
-code: 503
-responseTime: 154
-lastUpdated: 2026-02-07T13:21:34.215Z
+status: up
+code: 200
+responseTime: 289
+lastUpdated: 2026-02-07T13:39:23.645Z
 startTime: 2024-02-17T10:47:18.883Z
 generator: Upptime <https://github.com/upptime/upptime>
